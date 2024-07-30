@@ -1,0 +1,21 @@
+Github intro
+Open source software collaboration, versioning, code review, bug tracking, documentation, Continuous integration/ continuous deployment
+Commits
+* Capture specific changes to your code.
+* Serve as checkpoints in your project's history.
+Branches
+* Create isolated lines of development.
+* Allow multiple people to work on different features simultaneously.
+Monitoring Changes
+GitHub provides several ways to track changes made by collaborators:
+* Commit history: Check the commit history to see who made changes, when, and what the changes were.
+* Pull requests: When collaborators propose changes, they create pull requests. This allows you to review their code before merging it into the main branch.   
+* Blame: You can see who last modified a specific line of code using the "blame" feature.
+* Compare views: Compare different versions of a file to see the changes made between them.
+* Notifications: GitHub can send you notifications about changes, issues, and pull requests.   
+Collaborator may push the changes. However, the exact permissions can vary based on the repository settings.
+A pull request is the standard way to propose your changes to a project.
+Even if you have push access, creating a pull request is recommended for code review and collaboration.   
+
+
+
